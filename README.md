@@ -2,6 +2,8 @@
 
 This News App is powered by the GNews public API and provides users with the latest news articles from around the world. The app offers a user-friendly interface where news articles are organized by categories, allowing users to easily browse and read articles of their interest. 
 
+Live Demo : https://react-news-s7xdd.netlify.app/
+
 ## Features
 
 - **Category-based News**: The app categorizes news articles into various categories, including entertainment, business, sports, technology, health, science, and more. Users can click on a category to view articles specific to that category.
