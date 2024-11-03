@@ -55,15 +55,3 @@ npm start
 ```
 
 5. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to access the app.
-
-## Contributing
-
-Contributions to this News App are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request in this repository.
-
-## License
-
-This News App is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
-
-## Acknowledgements
-
-- This app utilizes the GNews public API for fetching news articles. Visit their website for more information: [GNews API](https://gnews.io/)
